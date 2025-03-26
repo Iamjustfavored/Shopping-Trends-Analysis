@@ -2,7 +2,6 @@
 
 ![my project screenshort 2](https://github.com/user-attachments/assets/99997f82-49ef-47c6-ba81-ba0fb2bc2343)
 
-
 Overview
 This project provides an in-depth Shopping Trends Analysis using Excel, visualizing consumer behavior, seasonal trends, and purchasing patterns. The dashboard presents key insights from sales data, helping businesses understand customer preferences and optimize strategies.
 
